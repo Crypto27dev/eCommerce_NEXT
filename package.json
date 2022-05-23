@@ -1,5 +1,5 @@
 {
-  "name": "e-commerce",
+  "name": "e-commerce--full-stack--next-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,9 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@sanity/client": "^3.3.0",
+    "@sanity/image-url": "^1.0.1",
+    "@stripe/stripe-js": "^1.29.0",
+    "canvas-confetti": "^1.5.1",
     "next": "12.1.6",
+    "next-sanity-image": "^3.2.1",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "react-hot-toast": "^2.2.0",
+    "react-icons": "^4.3.1",
+    "stripe": "^9.2.0"
   },
   "devDependencies": {
     "eslint": "8.16.0",
