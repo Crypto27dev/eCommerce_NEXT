@@ -8,6 +8,10 @@ const Layout = ({ children }) => {
     <div className="layout">
       <Head>
         <title>Headphones, Earphones Online Store</title>
+        <meta
+          name="description"
+          content="Online E-commerce App for Headphones, Earphones, Speakers. Build with NextJs, Sanity and Payment gateway: Stripe."
+        />
       </Head>
       <header>
         <Navbar />
