@@ -6,7 +6,7 @@
 
 </div>
 
-# Deploy in **VERCEL** ![](https://img.shields.io/badge/Build-Passed-brightgreen) <a href="https://ecommerce-full-stack-next-c9q3z44xh-livealvi.vercel.app/" target="_blank" title="E-commerce shop" >Click Here!</a> <img src="readme_asset/rocket-joypixels.gif" width="auto" height="30">
+# Deploy in **VERCEL** ![](https://img.shields.io/badge/Build-Passed-brightgreen) <a href="https://ecommerce-full-stack-next-c9q3z44xh-livealvi.vercel.app/" target="_blank" target="_blank" title="E-commerce shop" >Click Here!</a> <img src="readme_asset/rocket-joypixels.gif" width="auto" height="30">
 
 # Quick Overview - Setup & Run
 
