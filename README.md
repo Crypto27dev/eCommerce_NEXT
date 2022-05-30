@@ -30,14 +30,13 @@ cd Ecommerce--Full-Stack--NEXT-App
 npm i
 #or
 npm install
-or
+#or
 yarn add
 ```
 
 #### Step - 5
 
-create `.env` file from `env.example `
-need [Stripe](https://stripe.com/) & [Sanity](https://www.sanity.io/)
+create `.env` file from `env.example` need [Stripe](https://stripe.com/) & [Sanity](https://www.sanity.io/)
 
 - Token - Sanity
 - Publishable key - Stripe
@@ -51,7 +50,7 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
+#or
 yarn dev
 ```
 
