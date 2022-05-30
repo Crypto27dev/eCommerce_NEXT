@@ -1,6 +1,51 @@
+# E-commerce || Build with NextJs, Sanity and Payment gateway - Stripe.
+
+<div align="center">
+  
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)&nbsp;![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Quick Overview - Setup & Run
+
+#### Step - 1
+
+Download or Clone
+
+```sh
+git clone https://github.com/livealvi/Ecommerce--Full-Stack--NEXT-App.git
+```
+
+#### Step - 2
+
+```bash
+cd Ecommerce--Full-Stack--NEXT-App
+```
+
+#### Step - 4
+
+```bash
+npm i
+#or
+npm install
+or
+yarn add
+```
+
+#### Step - 5
+
+create `.env` file from `env.example `
+need [Stripe](https://stripe.com/) & [Sanity](https://www.sanity.io/)
+
+- Token - Sanity
+- Publishable key - Stripe
+- Secret key - Stripe
+
+#### Step - 6
+
+Build & Run the project
 
 First, run the development server:
 
@@ -12,23 +57,20 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+# Screenshot
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## #Homepage
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<img src="https://i.ibb.co/1fb9ty5/screencapture-ecommerce-full-stack-next-c9q3z44xh-livealvi-vercel-app-2022-05-30-17-34-56.png" alt="screencapture-ecommerce-full-stack-next-c9q3z44xh-livealvi-vercel-app-2022-05-30-17-34-56" border="0">
 
-## Learn More
+## #Product Page
 
-To learn more about Next.js, take a look at the following resources:
+<img src="https://i.ibb.co/QM7Yyvf/Screenshot-2022-05-30-at-5-36-42-PM.png" alt="Screenshot-2022-05-30-at-5-36-42-PM" border="0">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## #Payment Page - Stripe
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<img src="https://i.ibb.co/RD909Ng/Screenshot-2022-05-30-at-5-38-02-PM.png" alt="Screenshot-2022-05-30-at-5-38-02-PM" border="0">
 
-## Deploy on Vercel
+## #Order
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img src="https://i.ibb.co/Pxkmzbc/Screenshot-2022-05-30-at-5-38-06-PM.png" alt="Screenshot-2022-05-30-at-5-38-06-PM" border="0">
