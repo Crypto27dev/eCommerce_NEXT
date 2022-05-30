@@ -67,6 +67,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 <img src="readme_asset/product.png">
 
+## #Cart
+
+<img src="readme_asset/cart.png">
+
 ## #Payment Page - Stripe
 
 <img src="readme_asset/payment.png">
