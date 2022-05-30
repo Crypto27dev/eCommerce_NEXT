@@ -6,9 +6,9 @@
 
 </div>
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Deploy in **VERCEL** ![](https://img.shields.io/badge/Build-Passed-brightgreen) <a href="https://ecommerce-full-stack-next-c9q3z44xh-livealvi.vercel.app/" target="_blank" title="E-commerce shop" >Click Here!</a> <img src="readme_asset/rocket-joypixels.gif" width="auto" height="30">
 
-## Quick Overview - Setup & Run
+# Quick Overview - Setup & Run
 
 #### Step - 1
 
@@ -61,16 +61,16 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## #Homepage
 
-<img src="https://i.ibb.co/1fb9ty5/screencapture-ecommerce-full-stack-next-c9q3z44xh-livealvi-vercel-app-2022-05-30-17-34-56.png" alt="screencapture-ecommerce-full-stack-next-c9q3z44xh-livealvi-vercel-app-2022-05-30-17-34-56" border="0">
+<img src="readme_asset/homepage.png">
 
 ## #Product Page
 
-<img src="https://i.ibb.co/QM7Yyvf/Screenshot-2022-05-30-at-5-36-42-PM.png" alt="Screenshot-2022-05-30-at-5-36-42-PM" border="0">
+<img src="readme_asset/product.png">
 
 ## #Payment Page - Stripe
 
-<img src="https://i.ibb.co/RD909Ng/Screenshot-2022-05-30-at-5-38-02-PM.png" alt="Screenshot-2022-05-30-at-5-38-02-PM" border="0">
+<img src="readme_asset/payment.png">
 
-## #Order
+## #Purchased
 
-<img src="https://i.ibb.co/Pxkmzbc/Screenshot-2022-05-30-at-5-38-06-PM.png" alt="Screenshot-2022-05-30-at-5-38-06-PM" border="0">
+<img src="readme_asset/payment_done.png">
